@@ -1,0 +1,10 @@
+PySide6
+numpy
+opencv-python
+torch
+Pillow
+transformers
+onnxruntime-gpu
+imagehash
+mss
+freetype-py
